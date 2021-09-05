@@ -6,6 +6,6 @@ Written with Python language
     ╠═Author of tools : MatiN
     ╠═Team name : dark_shell
     ║
-    ╠═(~bay~)
+    (~ bye ~)
 
  Enter the website :
