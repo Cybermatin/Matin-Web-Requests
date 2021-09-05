@@ -22,7 +22,7 @@ print(f"""{colorma.CYAN}
     ╠═Author of tools : MatiN
     ╠═Team name : dark_shell
     ║
-    ╠═(~bay~)
+    ╠═(~bye~)
     """)
     
 init() #init the colorama Fore,init
