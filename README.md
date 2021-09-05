@@ -1,12 +1,11 @@
 # متین-وب-درخواست
 Written with Python language
-# Preview
+# پیش نمایش
 ╔══[Coded by : C Security,[Web.Requests]]
-║
-╠═Author of tools : MatiN
-╠═Team name : dark_shell
-║
-╠═(~bay~)
+    ║
+    ╠═Author of tools : MatiN
+    ╠═Team name : dark_shell
+    ║
+    ╠═(~bay~)
 
  Enter the website :
- 
