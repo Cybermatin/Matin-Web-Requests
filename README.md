@@ -13,3 +13,4 @@ Written with Python language
 git clone https://github.com/Cybermatin/Matin-Web-Requests
 cd Matin-Web-Requests
 pip install -r requests.txt
+python3 Web-Requests.py
