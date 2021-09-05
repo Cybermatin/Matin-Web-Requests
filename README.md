@@ -8,4 +8,6 @@ Written with Python language
     ║
     (~ bye ~)
 
- Enter the website :
+ وارد وب سایت شوید:
+# Install
+
