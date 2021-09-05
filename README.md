@@ -10,7 +10,9 @@ Written with Python language
 
  وارد وب سایت شوید:
 # Install
+```bash
 git clone https://github.com/Cybermatin/Matin-Web-Requests
 cd Matin-Web-Requests
 pip install -r requests.txt
 python3 Web-Requests.py
+```
