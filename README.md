@@ -1,6 +1,6 @@
-# متین-وب-درخواست
+# Matin-Web-Requests
 Written with Python language
-# پیش نمایش
+# PreView
 ╔══[Coded by : C Security,[Web.Requests]]
     ║
     ╠═Author of tools : MatiN
@@ -8,7 +8,7 @@ Written with Python language
     ║
     (~ bye ~)
 
- وارد وب سایت شوید:
+ Enter the website :
 # Install
 ```bash
 git clone https://github.com/Cybermatin/Matin-Web-Requests
